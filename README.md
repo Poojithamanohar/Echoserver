@@ -51,11 +51,15 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 
-SERVER OUPUT:![image](https://github.com/Poojithamanohar/Echoserver/assets/119423592/08e1ccab-388a-49e7-98e5-4d1951919c3d)
+SERVER OUPUT:
+
+![image](https://github.com/Poojithamanohar/Echoserver/assets/119423592/08e1ccab-388a-49e7-98e5-4d1951919c3d)
 
 
 
-CLIENT OUTPUT:![image](https://github.com/Poojithamanohar/Echoserver/assets/119423592/aa56dc58-9de4-4c29-9ff5-ca7c0c9e38a1)
+CLIENT OUTPUT:
+
+![image](https://github.com/Poojithamanohar/Echoserver/assets/119423592/aa56dc58-9de4-4c29-9ff5-ca7c0c9e38a1)
 
 
 
